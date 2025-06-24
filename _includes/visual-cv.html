@@ -1,64 +1,93 @@
-<div class="timeline-container">
-  <div class="timeline-years">
-    <div>2024</div>
-    <div>2023</div>
-    <div>2022</div>
-    <div>2021</div>
-    <div>2020</div>
-    <div>2019</div>
-    <div>2018</div>
-    <div>2017</div>
-    <div>2016</div>
-    <div>2015</div>
-    <div>2014</div>
-    <div>2013</div>
-  </div>
+<!-- top = (2024 - year) * 8.33% + month_offset
+month_offset:
+  Jan = 0%
+  Apr = 2.78%
+  Sep = 5.56% -->
+
 
   <div class="timeline">
-    <!-- Left Side (Work) -->
-    <div class="entry left" style="top: 0%; height: 8.3%;">
-      <span>Teaching Ass</span>
-    </div>
-    <div class="entry left" style="top: 8.3%; height: 16.6%;">
-      <span>Research Ass</span>
-    </div>
-    <div class="entry left" style="top: 25%; height: 8.3%;">
-      <span>Student Employee<br>Comp. Eval</span>
-    </div>
-    <div class="entry left" style="top: 33.3%; height: 8.3%;">
-      <span>Teaching Ass</span>
-    </div>
-    <div class="entry left" style="top: 41.6%; height: 8.3%;">
-      <span>Research Ass</span>
-    </div>
-    <div class="entry left" style="top: 58.3%; height: 8.3%;">
-      <span>Teaching Ass</span>
-    </div>
-    <div class="entry left" style="top: 91.6%; height: 8.3%;">
-      <span>Voluntary Service</span>
-    </div>
+  <div class="timeline-line"></div>
 
-    <!-- Right Side (Education) -->
-    <div class="entry right" style="top: 0%; height: 25%;">
-      <span>PhD Machine Learning</span>
-    </div>
-    <div class="entry right" style="top: 25%; height: 16.6%;">
-      <span>MSc Computer Science</span>
-    </div>
-    <div class="entry right" style="top: 33.3%; height: 16.6%;">
-      <span>MA Logic & Phil of Sci</span>
-    </div>
-    <div class="entry right" style="top: 50%; height: 16.6%;">
-      <span>BA Philosophy<br><small>2 semesters @ Uni Leeds</small></span>
-    </div>
-    <div class="entry right" style="top: 66.6%; height: 16.6%;">
-      <span>BSc Math</span>
-    </div>
-    <div class="entry right" style="top: 91.6%; height: 8.3%;">
-      <span>Abitur</span>
-    </div>
+  <!-- 2024 -->
+  <div class="timeline-entry left" style="top: 0%;">
+    <div class="content">Teaching Ass</div>
+    <div class="bar"></div>
+  </div>
 
-    <!-- Timeline axis -->
-    <div class="center-line"></div>
+  <!-- 2023 -->
+  <div class="timeline-entry left" style="top: 8.33%;">
+    <div class="content">Research Ass</div>
+    <div class="bar"></div>
+  </div>
+
+  <!-- 2021 (Sep) -->
+  <div class="timeline-entry left" style="top: 25.22%;">
+    <div class="content">Student Employee<br>Comp. Eval</div>
+    <div class="bar"></div>
+  </div>
+
+  <!-- 2020 -->
+  <div class="timeline-entry left" style="top: 33.33%;">
+    <div class="content">Teaching Ass</div>
+    <div class="bar"></div>
+  </div>
+
+  <!-- 2019 -->
+  <div class="timeline-entry left" style="top: 41.66%;">
+    <div class="content">Research Ass</div>
+    <div class="bar"></div>
+  </div>
+
+  <!-- 2017 (Apr) -->
+  <div class="timeline-entry left" style="top: 61.10%;">
+    <div class="content">Teaching Ass</div>
+    <div class="bar"></div>
+  </div>
+
+  <!-- 2014 -->
+  <div class="timeline-entry left" style="top: 83.33%;">
+    <div class="content">Voluntary Service</div>
+    <div class="bar"></div>
+  </div>
+
+  <!-- Education (Right) -->
+
+  <!-- 2024 (ongoing) -->
+  <div class="timeline-entry right" style="top: 0%;">
+    <div class="bar"></div>
+    <div class="content">PhD Machine Learning</div>
+  </div>
+
+  <!-- 2021 (Sep) -->
+  <div class="timeline-entry right" style="top: 25.22%;">
+    <div class="bar"></div>
+    <div class="content">MSc Computer Science</div>
+  </div>
+
+  <!-- 2020 (Sep) -->
+  <div class="timeline-entry right" style="top: 33.33%;">
+    <div class="bar"></div>
+    <div class="content">MA Logic & Phil of Sci</div>
+  </div>
+
+  <!-- 2019 (Apr) -->
+  <div class="timeline-entry right" style="top: 47.21%;">
+    <div class="bar"></div>
+    <div class="content">
+      BA Philosophy<br>
+      <small>2 semesters @ Uni Leeds</small>
+    </div>
+  </div>
+
+  <!-- 2016 (Sep) -->
+  <div class="timeline-entry right" style="top: 61.10%;">
+    <div class="bar"></div>
+    <div class="content">BSc Math</div>
+  </div>
+
+  <!-- 2014 -->
+  <div class="timeline-entry right" style="top: 83.33%;">
+    <div class="bar"></div>
+    <div class="content">Abitur</div>
   </div>
 </div>
