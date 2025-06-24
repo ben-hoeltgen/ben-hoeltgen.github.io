@@ -4,8 +4,8 @@ collection: talks
 type: "Talk"
 # permalink: /talks/2012-03-01-talk-1
 venue: "Philosophy of Science meets Machine Learning Conference"
-date: 2024-09-01
+date: 2024-09-13
 location: "Tübingen, Germany"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+Invited talk presenting my project on an alternative formalisation of Causal Inference
