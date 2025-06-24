@@ -1,93 +1,38 @@
-<!-- top = (2024 - year) * 8.33% + month_offset
-month_offset:
-  Jan = 0%
-  Apr = 2.78%
-  Sep = 5.56% -->
-
-
-  <div class="timeline">
+<div class="timeline-container">
   <div class="timeline-line"></div>
 
-  <!-- 2024 -->
-  <div class="timeline-entry left" style="top: 0%;">
-    <div class="content">Teaching Ass</div>
-    <div class="bar"></div>
+  <!-- EXAMPLE ENTRY: All 3 Bars (Abitur / PhD) -->
+  <div class="timeline-row" style="top: 0%;">
+    <div class="timeline-label left">Teaching Ass</div>
+    <div class="timeline-bars">
+      <div class="bar full"></div>
+    </div>
+    <div class="timeline-label right">PhD Machine Learning</div>
   </div>
 
-  <!-- 2023 -->
-  <div class="timeline-entry left" style="top: 8.33%;">
-    <div class="content">Research Ass</div>
-    <div class="bar"></div>
-  </div>
-
-  <!-- 2021 (Sep) -->
-  <div class="timeline-entry left" style="top: 25.22%;">
-    <div class="content">Student Employee<br>Comp. Eval</div>
-    <div class="bar"></div>
-  </div>
-
-  <!-- 2020 -->
-  <div class="timeline-entry left" style="top: 33.33%;">
-    <div class="content">Teaching Ass</div>
-    <div class="bar"></div>
-  </div>
-
-  <!-- 2019 -->
-  <div class="timeline-entry left" style="top: 41.66%;">
-    <div class="content">Research Ass</div>
-    <div class="bar"></div>
-  </div>
-
-  <!-- 2017 (Apr) -->
-  <div class="timeline-entry left" style="top: 61.10%;">
-    <div class="content">Teaching Ass</div>
-    <div class="bar"></div>
-  </div>
-
-  <!-- 2014 -->
-  <div class="timeline-entry left" style="top: 83.33%;">
-    <div class="content">Voluntary Service</div>
-    <div class="bar"></div>
-  </div>
-
-  <!-- Education (Right) -->
-
-  <!-- 2024 (ongoing) -->
-  <div class="timeline-entry right" style="top: 0%;">
-    <div class="bar"></div>
-    <div class="content">PhD Machine Learning</div>
-  </div>
-
-  <!-- 2021 (Sep) -->
-  <div class="timeline-entry right" style="top: 25.22%;">
-    <div class="bar"></div>
-    <div class="content">MSc Computer Science</div>
-  </div>
-
-  <!-- 2020 (Sep) -->
-  <div class="timeline-entry right" style="top: 33.33%;">
-    <div class="bar"></div>
-    <div class="content">MA Logic & Phil of Sci</div>
-  </div>
-
-  <!-- 2019 (Apr) -->
-  <div class="timeline-entry right" style="top: 47.21%;">
-    <div class="bar"></div>
-    <div class="content">
-      BA Philosophy<br>
-      <small>2 semesters @ Uni Leeds</small>
+  <!-- Single entry on left bar -->
+  <div class="timeline-row" style="top: 8.33%;">
+    <div class="timeline-label left">Research Ass</div>
+    <div class="timeline-bars">
+      <div class="bar left"></div>
     </div>
   </div>
 
-  <!-- 2016 (Sep) -->
-  <div class="timeline-entry right" style="top: 61.10%;">
-    <div class="bar"></div>
-    <div class="content">BSc Math</div>
+  <!-- Single entry on right bar -->
+  <div class="timeline-row" style="top: 16.66%;">
+    <div class="timeline-bars">
+      <div class="bar right"></div>
+    </div>
+    <div class="timeline-label right">MSc Computer Science</div>
   </div>
 
-  <!-- 2014 -->
-  <div class="timeline-entry right" style="top: 83.33%;">
-    <div class="bar"></div>
-    <div class="content">Abitur</div>
+  <!-- Middle bar with left label -->
+  <div class="timeline-row" style="top: 24.99%;">
+    <div class="timeline-label left">Student Employee<br>Comp. Eval</div>
+    <div class="timeline-bars">
+      <div class="bar center"></div>
+    </div>
   </div>
+
+  <!-- Add more entries similarly -->
 </div>
