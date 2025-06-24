@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-By asking foundational questions about machine learning and its use, I hope to help shaping the development and deployment of 'artificial intelligence' in a way that is beneficial and not harmful to society. I have been thinking especially about the interpretation and evaluation of probabilities, the interplay between individuals and groups, and the implicit assumptions that are often glossed over in ML theorey and practice.  
+By asking foundational questions about machine learning and its use, I hope to help shaping the development and deployment of 'artificial intelligence' in a way that is beneficial and not harmful to society. I have been thinking especially about the interpretation and evaluation of probabilities, the interplay between individuals and groups, and the implicit choices and assumptions that are often glossed over in ML theory and practice.  
 
 Before my PhD, I have worked a little on moral psychology, philosophy of science, causal discovery, XAI, and efficient training of large ML models (see also [here](https://benedikthoeltgen.github.io/publications/)).
 
