@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-By asking foundational questions about machine learning and its use, I hope to help shaping the development and deployment of `artificial intelligence´ in a way that is beneficial and not harmful to society. I have been thinking especially about the interpretation and evaluation of probabilistic predictions and about the relation between individuals and groups.  
+By asking foundational questions about machine learning and its use, I hope to help shaping the development and deployment of 'artificial intelligence' in a way that is beneficial and not harmful to society. I have been thinking especially about the interpretation and evaluation of probabilities, the interplay between individuals and groups, and the implicit assumptions that are often glossed over in ML theorey and practice.  
 
-Before my PhD, I have worked a little on moral psychology, philosophy of science, causal discovery, XAI, and efficient training of large ML models (see a list [here](https://benedikthoeltgen.github.io/publications/)).
+Before my PhD, I have worked a little on moral psychology, philosophy of science, causal discovery, XAI, and efficient training of large ML models (see also [here](https://benedikthoeltgen.github.io/publications/)).
 
 
 ### My background (more details [here](https://benedikthoeltgen.github.io/cv/))
@@ -21,4 +21,4 @@ I initially studied maths (with some physics) and then also philosophy (with som
 
 I am also trying to help foster interdisciplinary collaboration (co-developing an [app](https://catalyst-app.org/)), enhance the visibility of female and non-binary scientists (co-organising [Soapbox Science Tübingen](https://soapboxsciencetuebingen.github.io/)), and generally make academia a more healthy place (as a [mental heath first aider](https://mhfainternational.org/), a 'confidant' contact person in the [Tübingen AI community](https://tappa-org.github.io/), and promoting [mental health](https://www.nature.com/articles/d41586-024-04240-1) awareness).
 
-Outside of work, I enjoy (among other things) literature, music, travelling (especially visiting friends), and all sorts of sports.
+Outside of work, I enjoy (among other things) literature, music, travelling (especially to visit friends), and all sorts of sports.

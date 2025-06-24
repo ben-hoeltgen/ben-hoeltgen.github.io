@@ -3,7 +3,7 @@ title: "Structure-sensitive Testimonial Norms"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-philpsy-moral
-excerpt: 'Listening to scientific stars is not good for science. From a previous life.'
+excerpt: 'Listening to scientific rockstars is not good for science. From a previous life.'
 date: 2021-10-01
 venue: 'European Journal for Philosophy of Science'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

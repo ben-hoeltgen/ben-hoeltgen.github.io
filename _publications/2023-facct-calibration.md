@@ -3,7 +3,7 @@ title: "On the  Richness of Calibration"
 collection: publications
 category: conferences
 permalink: /publication/2023-facct-calibration
-excerpt: 'Exploring the concept and measures of calibration.'
+excerpt: 'Exploring the concept of calibration and different ways to measure it.'
 date: 2023-10-01
 venue: 'ACM FAccT'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
