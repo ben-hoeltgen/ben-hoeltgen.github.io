@@ -3,7 +3,7 @@ title: "DeDUCE: Generating Counterfactual Explanations Efficiently"
 collection: publications
 category: workshops
 permalink: /publication/2021-neurips-deduce
-excerpt: 'An algorithm to generate counerfactual explanations. My second master thesis.'
+excerpt: 'An algorithm for generating counerfactual explanations. My second master thesis.'
 date: 2021-10-01
 venue: 'ACM FAccT'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

@@ -3,7 +3,7 @@ title: "Prioritized Training on Points that are Learnable, Worth Learning, and N
 collection: publications
 category: conferences
 permalink: /publication/2022-icml-prio
-excerpt: 'An algorthm for efficient online batch selection.'
+excerpt: 'An online batch selection algorithm for time-efficient training of large ML models.'
 date: 2022-10-01
 venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
