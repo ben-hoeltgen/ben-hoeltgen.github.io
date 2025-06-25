@@ -3,7 +3,7 @@ title: "Moral Discourse Boosts Confidence in Moral Judgments"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-philpsy-moral
-excerpt: 'The title says it all. From a previous life.'
+excerpt: 'The title says it all.'
 date: 2021-10-01
 venue: 'Philosophical Psychology'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
