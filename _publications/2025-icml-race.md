@@ -15,10 +15,3 @@ citation: 'Doh, M., <b>Höltgen, B.</b>, Riccio, P, Oliver, N.: &quot;Position: 
 This position paper critiques the reliance on rigid racial taxonomies in machine learning, exposing their U.S.-centric nature and lack of global applicability—particularly in Europe, where race categories are not commonly used. These classifications oversimplify racial identity, erasing the experiences of mixed-race individuals and reinforcing outdated essentialist views that contradict the social construction of race. We suggest research agendas in machine learning that move beyond categorical variables to better address discrimination and social inequality.
 
 [**PDF**](https://icml.cc/virtual/2025/poster/40122)
-
-So many options,
-
-so much potential, hiding
-
-in calibration.
-
