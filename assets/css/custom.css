@@ -41,19 +41,19 @@ body {
 }
 
 .label.right {
-  left: 95%;
+  left: 15%;
   margin-left: 20px;
   flex-direction: row;
 }
 
 .label.left {
-  right: 95%;
+  left: 95%;
   margin-right: 20px;
   flex-direction: row-reverse;
 }
 
 .line {
-  width: 20px;
+  width: 40px;
   height: 2px;
   background: #333;
   margin: 0 5px;
