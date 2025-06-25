@@ -5,7 +5,7 @@ category: workshops
 permalink: /publication/2021-neurips-deduce
 excerpt: 'An algorithm for generating counerfactual explanations. My second master thesis.'
 date: 2021-10-01
-venue: 'ACM FAccT'
+venue: 'NeurIPS Workshop on Explainable AI Approaches for Debugging and Diagnosis'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
