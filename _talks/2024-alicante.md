@@ -1,7 +1,7 @@
 ---
 title: "Probability and machine learning"
 collection: talks
-type: "invited talk"
+type: "Invited Talk"
 # permalink: /talks/2012-03-01-talk-1
 venue: "ELLIS Distinguished Speaker Series"
 date: 2024-02-06

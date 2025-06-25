@@ -1,7 +1,7 @@
 ---
 title: "The ethics of genome editing: An empirical investigation"
 collection: talks
-type: "peer-reviewed talk"
+type: "Peer-reviewed Talk"
 # permalink: /talks/2012-03-01-talk-1
 venue: "Experimental Philosophy Conference"
 date: 2018-09-21
