@@ -1,7 +1,7 @@
 ---
 title: "Causal modelling without introducing counterfactuals or abstract distributions"
 collection: publications
-category: workshops
+category: in-progress
 permalink: /publication/2024-icml-causality
 excerpt: 'A different way of modelling causal inference.'
 date: 2024-10-01
