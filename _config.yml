@@ -86,7 +86,7 @@ publication_category:
     title: 'Workshop Papers'
   manuscripts:
     title: 'Journal Articles'
-  in progress:
+  in-progress:
     title: 'Work in Progress'    
 
 # Site Settings
