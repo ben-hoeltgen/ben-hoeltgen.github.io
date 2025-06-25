@@ -1,5 +1,5 @@
 ---
-title: "Position: The Categorization of Race in ML is a Flawed Premise "
+title: "Position: The Categorization of Race in ML is a Flawed Premise"
 collection: publications
 category: conferences
 permalink: /publication/2025-icml-race

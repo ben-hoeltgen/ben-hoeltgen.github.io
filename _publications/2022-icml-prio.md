@@ -1,5 +1,5 @@
 ---
-title: "Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learned "
+title: "Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learned"
 collection: publications
 category: conferences
 permalink: /publication/2022-icml-prio
