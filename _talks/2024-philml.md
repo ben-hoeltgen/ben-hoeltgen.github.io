@@ -7,5 +7,4 @@ venue: "Philosophy of Science meets Machine Learning Conference"
 date: 2024-09-13
 location: "Tübingen, Germany"
 ---
-
-Presenting my project on an alternative formalisation of Causal Inference
+<span style="font-size: 0.9em;"> Presenting my project on an alternative formalisation of Causal Inference</span>

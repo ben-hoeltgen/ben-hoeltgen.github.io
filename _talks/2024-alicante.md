@@ -7,5 +7,4 @@ venue: "ELLIS Distinguished Speaker Series"
 date: 2024-02-06
 location: "Alicante, Spain"
 ---
-
-Presenting my various projects on the role of probability in understanding Machine Learning
+<span style="font-size: 0.9em;"> Presenting my various projects on the role of probability in understanding Machine Learning</span>
