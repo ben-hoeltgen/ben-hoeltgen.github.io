@@ -5,7 +5,7 @@ category: workshops
 permalink: /publication/2021-neurips-causal
 excerpt: 'An algorithm for causal representation learning and a reflection on causal variables. My first master thesis.'
 date: 2021-10-01
-# venue: 'NeurIPS Workshop on Causal Inference'
+venue: 'NeurIPS Workshop on Causal Inference'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
