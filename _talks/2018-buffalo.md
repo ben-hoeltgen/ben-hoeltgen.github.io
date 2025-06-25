@@ -7,4 +7,4 @@ venue: "Experimental Philosophy Conference"
 date: 2018-09-21
 location: "Buffalo, NY, USA"
 ---
-<span style="font-size: 0.9em;"> Presenting our project (with Nora Heinzelmann) on folk views on the ethcs of genome editing</span>
+<!-- <span style="font-size: 0.9em;"> Presenting our project (with Nora Heinzelmann) on folk views on the ethcs of genome editing</span> -->

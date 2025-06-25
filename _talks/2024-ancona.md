@@ -7,4 +7,4 @@ venue: "Probabilistic Reasoning in the Sciences Conference"
 date: 2024-08-29
 location: "Ancona, Italy"
 ---
-<span style="font-size: 0.9em;"> Presenting my project on the philosophy of probability</span>
+<!-- <span style="font-size: 0.9em;"> Presenting my project on the philosophy of probability</span> -->

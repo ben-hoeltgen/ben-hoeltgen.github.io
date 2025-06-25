@@ -7,4 +7,4 @@ venue: "Philosophy of Science meets Machine Learning Workshop"
 date: 2021-11-11
 location: "Tübingen, Germany"
 ---
-<span style="font-size: 0.9em;"> Presenting my master thesis on Causal Representation Learning</span>
+<!-- <span style="font-size: 0.9em;"> Presenting my master thesis on Causal Representation Learning</span> -->
