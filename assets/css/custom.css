@@ -124,7 +124,7 @@ body {
 
 
  
-html[current-theme="dark"] .description {
+html[data-theme="dark"] .description {
     background: rgb(53, 53, 53);
     /* color: #e0e0e0; */
   }
