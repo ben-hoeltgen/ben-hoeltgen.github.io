@@ -204,7 +204,9 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    flex-wrap: wrap; // allows links to wrap instead of overflowing
+    overflow: hidden;
 
     li {
       display: table-cell;
