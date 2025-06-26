@@ -113,10 +113,12 @@ body {
     font-size: 12px;
     padding: 4px 6px;
   }
+  .label.right {
+    width: 30%;
+  }
   .year-marker {
     font-size: 11px;
     left: -10%;
-    margin-left: 3%;
   }
   .timeline {
     margin-left: 3%;
