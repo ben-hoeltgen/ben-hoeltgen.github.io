@@ -37,6 +37,7 @@ body {
 .label {
   position: absolute;
   display: flex;
+  width: 15%;
 }
 
 .label.right {
@@ -71,6 +72,6 @@ body {
   background: #eee;
   padding: 5px 10px;
   border-radius: 4px;
-  width: 15%;  /* fixed width */
+  width: 100%;  /* fixed width */
   white-space: normal;
 }
