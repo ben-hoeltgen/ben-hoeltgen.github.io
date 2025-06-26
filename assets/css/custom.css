@@ -25,23 +25,23 @@ body {
   position: absolute;
   background-color: #4CAF50;
   border-radius: 2px;
-  width: 10%;
+  width: 8%;
 }
 
-.left { left: 30%; }
-.middle { left: 43%; }
-.right { left: 56%; }
-.broad { left: 30%; width: 36%; background-color: #2196F3; }
+.left { left: 35%; }
+.middle { left: 45%; }
+.right { left: 55%; }
+.broad { left: 35%; width: 28%; background-color: #2196F3; }
 
 /* Labels */
 .label {
   position: absolute;
   display: flex;
-  width: 15%;
+  width: 20%;
 }
 
 .label.right {
-  left: 70%;
+  left: 73%;
   margin-left: 20px;
   flex-direction: row;
   align-items: left;
@@ -61,11 +61,11 @@ body {
 }
 
 .line.left {
-  left: 20%;
+  left: 27%;
 }
 
 .line.right {
-  right: 40%;
+  right: 29%;
 }
 
 .description {
