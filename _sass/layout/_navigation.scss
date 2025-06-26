@@ -174,9 +174,8 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 200px;
+  min-width: 250px;
   background: var(--global-bg-color);
-  max-width: 90%;
 
   a {
     display: block;
@@ -204,16 +203,11 @@
   }
 
   .visible-links {
-    display: flex;
-    flex-wrap: wrap; // allows links to wrap instead of overflowing
-    overflow: hidden;
+    display: table;
 
     li {
       display: table-cell;
       vertical-align: middle;
-      
-      flex: 0 1 auto; // shrink/grow as needed
-      min-width: 0; // let items shrink more easily
 
       &:first-child {
         font-weight: bold;
