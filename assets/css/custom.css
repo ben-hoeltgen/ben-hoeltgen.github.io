@@ -16,7 +16,7 @@ body {
 /* Year labels on the left of the axis */
 .year-marker {
   position: absolute;
-  left: -80px;
+  left: -4%;
   font-size: 14px;
   color: #666;
 }
