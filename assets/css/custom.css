@@ -122,28 +122,21 @@ body {
   }
 }
 
-/* darker backgrounds in dark mode */
-@media (prefers-color-scheme: dark) {
-  /* body {
-    background-color: #121212;
-    color: #e0e0e0;
-  } */
 
-  /* .timeline {
-    border-left: 2px solid #aaa;
-  } */
-
-  .description {
+ 
+html[data-theme="dark"] .description {
     background: rgb(53, 53, 53);
     /* color: #e0e0e0; */
   }
-  .line {
-    background: #5f5f5f;
+html[data-theme="dark"]  .line {
+    background: #282828;
   }
-  .year-marker {
+  
+html[data-theme="dark"] .year-marker {
     color: #bbb;
   }
-  .bar {
+  
+html[data-theme="dark"] .bar {
     /* optional: adjust colors to be more dark-mode friendly */
     filter: brightness(0.7);
   }
@@ -151,4 +144,4 @@ body {
   /* .label.left, .label.right {
     color: #373737;
   } */
-}
+
