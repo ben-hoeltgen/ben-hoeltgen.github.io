@@ -10,7 +10,7 @@ body {
   height: 1800px; /* Adjust based on your timeline's total height */
   border-left: 2px solid #333;
   margin-left: 100px;
-  overflow-y: auto;
+  /* overflow-y: auto; */
 }
 
 /* Year labels on the left of the axis */
