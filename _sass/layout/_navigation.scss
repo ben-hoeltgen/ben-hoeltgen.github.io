@@ -209,6 +209,9 @@
     li {
       display: table-cell;
       vertical-align: middle;
+      
+      flex: 0 1 auto; // shrink/grow as needed
+      min-width: 0; // let items shrink more easily
 
       &:first-child {
         font-weight: bold;
