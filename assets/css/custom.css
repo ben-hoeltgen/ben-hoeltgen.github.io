@@ -145,7 +145,7 @@ body {
   }
   .bar {
     /* optional: adjust colors to be more dark-mode friendly */
-    filter: brightness(1.1);
+    filter: brightness(0.7);
   }
 
   /* .label.left, .label.right {
