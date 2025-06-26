@@ -57,6 +57,7 @@ body {
   height: 2px;
   background: #333;
   display: flex;
+  position: absolute;
 }
 
 .line.left {
