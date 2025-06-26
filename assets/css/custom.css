@@ -56,16 +56,15 @@ body {
 .line {
   height: 2px;
   background: #333;
-  display: flex;
   position: absolute;
 }
 
 .line.left {
-  right: 60%;
+  left: 10%;
 }
 
 .line.right {
-  left: 10%;
+  right: 40%;
 }
 
 .description {
