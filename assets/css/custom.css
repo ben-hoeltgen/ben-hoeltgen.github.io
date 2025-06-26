@@ -113,6 +113,13 @@ body {
     font-size: 12px;
     padding: 4px 6px;
   }
+  .year-marker {
+    font-size: 11px;
+    left: -13%;
+  }
+  .timeline {
+    margin-left: 20%;
+  }
 }
 
 /* darker backgrounds in dark mode */
@@ -127,18 +134,15 @@ body {
   } */
 
   .description {
-    background: black;
+    background: rgb(53, 53, 53);
     /* color: #e0e0e0; */
   }
-
   .line {
     background: #5f5f5f;
   }
-
   .year-marker {
     color: #bbb;
   }
-
   .bar {
     /* optional: adjust colors to be more dark-mode friendly */
     filter: brightness(1.1);
