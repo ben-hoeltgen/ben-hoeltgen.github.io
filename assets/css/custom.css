@@ -34,6 +34,22 @@ body {
 .bar.right { left: 50%; background-color: #2196F3; }
 .bar.broad { left: 30%; width: 28%; }
 
+
+/* abroad bars */
+.abroad-bar {
+  position: absolute;
+  background-color: #d8e99b;
+  border-radius: 0px;
+  width: 100%;
+  left: 0%;
+}
+
+.abroad-description {
+  position: absolute;
+  background-color: transparent;
+}
+
+
 /* Labels */
 .label {
   position: absolute;
