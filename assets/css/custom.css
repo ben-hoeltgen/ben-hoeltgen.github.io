@@ -70,6 +70,6 @@ body {
   background: #eee;
   padding: 5px 10px;
   border-radius: 4px;
-  width: 450px;  /* fixed width */
+  width: 15%;  /* fixed width */
   white-space: normal;
 }
