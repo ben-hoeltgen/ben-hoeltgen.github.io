@@ -56,7 +56,14 @@ body {
 .line {
   height: 2px;
   background: #333;
-  margin: 0 5px;
+}
+
+.line.left {
+  right: 60%;
+}
+
+.line.right {
+  left: 10%;
 }
 
 .description {
