@@ -28,10 +28,10 @@ body {
   width: 10%;
 }
 
-.left { left: 20%; }
-.middle { left: 33%; }
-.right { left: 46%; }
-.broad { left: 20%; width: 36%; background-color: #2196F3; }
+.left { left: 30%; }
+.middle { left: 43%; }
+.right { left: 56%; }
+.broad { left: 30%; width: 36%; background-color: #2196F3; }
 
 /* Labels */
 .label {
@@ -41,7 +41,7 @@ body {
 }
 
 .label.right {
-  left: 60%;
+  left: 70%;
   margin-left: 20px;
   flex-direction: row;
   align-items: left;
@@ -61,7 +61,7 @@ body {
 }
 
 .line.left {
-  left: 10%;
+  left: 20%;
 }
 
 .line.right {
