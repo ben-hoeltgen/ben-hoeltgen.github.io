@@ -72,6 +72,6 @@ body {
   background: #eee;
   padding: 5px 10px;
   border-radius: 4px;
-  width: 100%;  /* fixed width */
+  width: auto;  /* fixed width */
   white-space: normal;
 }
