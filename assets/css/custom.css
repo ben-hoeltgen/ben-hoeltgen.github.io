@@ -29,10 +29,10 @@ body {
   width: 8%;
 }
 
-.left { left: 30%; }
-.middle { left: 40%; background-color: #2196F3; }
-.right { left: 50%; background-color: #2196F3; }
-.broad { left: 30%; width: 28%; }
+.bar.left { left: 30%; }
+.bar.middle { left: 40%; background-color: #2196F3; }
+.bar.right { left: 50%; background-color: #2196F3; }
+.bar.broad { left: 30%; width: 28%; }
 
 /* Labels */
 .label {
@@ -83,7 +83,6 @@ body {
 
 
 .description {
-  background-color: white;
   background: #eee;
   padding: 5px 10px;
   border-radius: 4px;
