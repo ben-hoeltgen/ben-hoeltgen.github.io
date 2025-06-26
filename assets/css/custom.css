@@ -106,9 +106,46 @@ body {
   white-space: normal;
 }
 
+
+/* smaller CV text on mobile devices */
 @media (max-width: 768px) {
   .description {
     font-size: 12px;
     padding: 4px 6px;
+  }
+}
+
+/* darker backgrounds in dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  .timeline {
+    border-left: 2px solid #aaa;
+  }
+
+  .description {
+    background: #2a2a2a;
+    color: #e0e0e0;
+  }
+
+  .line {
+    background: #aaa;
+  }
+
+  .year-marker {
+    color: #bbb;
+  }
+
+  .bar {
+    /* optional: adjust colors to be more dark-mode friendly */
+    filter: brightness(1.1);
+  }
+
+  .label.left, .label.right {
+    /* optional: ensure visibility */
+    color: #ddd;
   }
 }
