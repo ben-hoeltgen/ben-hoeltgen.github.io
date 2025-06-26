@@ -115,15 +115,16 @@ body {
   }
   .year-marker {
     font-size: 11px;
-    left: -13%;
+    left: -10%;
   }
   .timeline {
-    margin-left: 20%;
+    margin-left: 15%;
   }
 }
 
 
- 
+
+/* dark mode */ 
 html[data-theme="dark"] .description {
     background: rgb(53, 53, 53);
     /* color: #e0e0e0; */
@@ -138,7 +139,7 @@ html[data-theme="dark"] .year-marker {
   
 html[data-theme="dark"] .bar {
     /* optional: adjust colors to be more dark-mode friendly */
-    filter: brightness(0.7);
+    filter: brightness(0.8);
   }
 
   /* .label.left, .label.right {
