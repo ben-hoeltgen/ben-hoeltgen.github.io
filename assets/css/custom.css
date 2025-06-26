@@ -60,14 +60,26 @@ body {
   position: absolute;
 }
 
-.line.left {
+.line.left-short {
   left: 26%;
+  width: 5%;
+}
+
+.line.left-middle {
+  left: 26%;
+  width: 15%;
 }
 
 .line.right-short {
-  left: 56%;
+  left: 57%;
   width: 5%;
 }
+
+.line.right-middle {
+  left: 47%;
+  width: 15%;
+}
+
 
 .description {
   background: #eee;
