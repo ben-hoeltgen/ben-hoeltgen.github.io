@@ -131,7 +131,7 @@ body {
   }
   .abroad-description {
     font-size: 11px;
-    padding: 3px 6px;
+    /* padding: 3px 6px; */
     /* max-width: 200px; narrower on mobile */
   }
 
