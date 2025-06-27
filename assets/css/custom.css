@@ -202,6 +202,11 @@ body {
   }
 }
 
+.greedy-nav.is-collapsed a {
+  font-size: 0.9rem;
+  padding: 0.4rem 0.4rem;
+}
+
 
 /* dark mode */ 
 html[data-theme="dark"] .description {

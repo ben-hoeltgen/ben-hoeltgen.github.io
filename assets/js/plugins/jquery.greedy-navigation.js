@@ -20,6 +20,10 @@ function updateNav() {
   // The visible list is overflowing the nav
   if ($vlinks.width() > availableSpace) {
 
+    
+    // Collapse
+    $nav.addClass('is-collapsed');
+
     while ($vlinks.width() > availableSpace && $vlinks.children("*:not(.persist)").length > 0) {
       // Record the width of the list
       breaks.push($vlinks.width());
@@ -36,6 +40,10 @@ function updateNav() {
     // The visible list is not overflowing
   } else {
 
+    
+    // Expand
+    $nav.removeClass('is-collapsed');
+    
     // There is space for another item in the nav
     while (breaks.length > 0 && availableSpace > breaks[breaks.length - 1]) {
       // Move the item to the visible list
