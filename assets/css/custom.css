@@ -130,7 +130,7 @@ body {
     margin-left: 3%;
   }
   .abroad-bar {
-    width: 93%;
+    width: 102%;
     left: 3%;
   }
   .abroad-description {
@@ -143,8 +143,11 @@ body {
   .label.right {
     width: 30%;
   }
+  .label.left {
+    width: 30%;
+  }
 
-  /* shift everything to make left descr larger */
+  /* shift everything to allow left label larger */
   :root {
     --left-offset: 10%;
   }
