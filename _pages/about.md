@@ -5,12 +5,11 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-classes: about-page
 ---
 <style>
 @media (max-width: 768px) {
   .page__content {
-    font-size: smaller;
+    font-size: 90%;
   }
 }
 </style>

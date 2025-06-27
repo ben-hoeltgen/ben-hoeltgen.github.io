@@ -143,10 +143,10 @@ body {
     padding: 0.5rem 0;
   }
 
-  /* for about page */
+  /* for about page
   body.about-page .page__content {
     font-size: smaller;
-  }
+  } */
 }
 
 
