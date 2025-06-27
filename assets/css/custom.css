@@ -131,7 +131,7 @@ body {
 
   /* for about page */
   p {
-    font-size: 90%; /* or try 0.9em */
+    font-size: smaller; /* or try 0.9em */
   }
 
 }
