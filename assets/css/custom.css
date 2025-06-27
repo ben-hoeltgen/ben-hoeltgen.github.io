@@ -24,21 +24,21 @@ body {
 /* Timeline bars */
 .bar {
   position: absolute;
-  background-color: #98A1BC;
+  background-color: #3282B8;
   border-radius: 2px;
   width: 8%;
 }
 
 .bar.left { left: 30%; }
-.bar.middle { left: 40%; background-color: #555879; }
-.bar.right { left: 50%; background-color: #555879; }
+.bar.middle { left: 40%; background-color: #0F4C75; }
+.bar.right { left: 50%; background-color: #0F4C75; }
 .bar.broad { left: 30%; width: 28%; }
 
 
 /* abroad bars */
 .abroad-bar {
   position: absolute;
-  background-color: #F4EBD3;
+  background-color: #BBE1FA;
   border-radius: 0px;
   width: 80%;
   left: 5%;
@@ -170,7 +170,7 @@ html[data-theme="dark"] .year-marker {
   } */
 
 html[data-theme="dark"] .abroad-bar {
-  background-color: #ded3c470;
+  background-color: #1B262C;
     /* filter: brightness(0.5); */
   }
   /* .label.left, .label.right {
