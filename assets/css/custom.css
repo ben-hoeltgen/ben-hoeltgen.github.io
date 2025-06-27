@@ -148,6 +148,10 @@ body {
     padding: 0.5rem 0;
   }
 
+  .timeline {
+    margin-right: 5%;
+  }
+
   /* for about page
   body.about-page .page__content {
     font-size: smaller;
