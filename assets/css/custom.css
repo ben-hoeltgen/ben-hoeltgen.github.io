@@ -24,21 +24,21 @@ body {
 /* Timeline bars */
 .bar {
   position: absolute;
-  background-color: #1b911f;
+  background-color: #555879;
   border-radius: 2px;
   width: 8%;
 }
 
 .bar.left { left: 30%; }
-.bar.middle { left: 40%; background-color: #1378ca; }
-.bar.right { left: 50%; background-color: #1378ca; }
+.bar.middle { left: 40%; background-color: #555879; }
+.bar.right { left: 50%; background-color: #555879; }
 .bar.broad { left: 30%; width: 28%; }
 
 
 /* abroad bars */
 .abroad-bar {
   position: absolute;
-  background-color: #d8e99b;
+  background-color: #F4EBD3;
   border-radius: 0px;
   width: 80%;
   left: 5%;
