@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 classes: about-page
 ---
+<style>
+@media (max-width: 768px) {
+  .page__content {
+    font-size: smaller;
+  }
+}
+</style>
 
 By asking foundational questions about machine learning and its use, I hope to help shaping the development and deployment of 'artificial intelligence' in a way that is beneficial and not harmful to society. I have been thinking especially about the interpretation and evaluation of probabilities, the interplay between individuals and groups, and the implicit choices and assumptions that are often glossed over in ML theory and practice.  
 
