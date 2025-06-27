@@ -170,8 +170,8 @@ html[data-theme="dark"] .year-marker {
   } */
 
 html[data-theme="dark"] .abroad-bar {
-  background-color: #DED3C4;
-    filter: brightness(0.5);
+  background-color: #ded3c470;
+    /* filter: brightness(0.5); */
   }
   /* .label.left, .label.right {
     color: #373737;
