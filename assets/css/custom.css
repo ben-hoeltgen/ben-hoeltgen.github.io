@@ -47,6 +47,7 @@ body {
 .abroad-description {
   position: absolute;
   background-color: transparent;
+  right: 20%;  
 }
 
 
@@ -122,6 +123,11 @@ body {
   }
   .timeline {
     margin-left: 3%;
+  }
+  .abroad-description {
+    font-size: 12px;
+    padding: 3px 6px;
+    max-width: 200px; /* narrower on mobile */
   }
 
   .greedy-nav a {
