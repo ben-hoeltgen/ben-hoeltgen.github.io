@@ -10,6 +10,7 @@ body {
   height: 1680px; /* Adjust based on your timeline's total height */
   border-left: 2px solid #333;
   margin-left: 100px;
+  margin-right: -100px;
   /* overflow-y: auto; */
 }
 
@@ -148,9 +149,6 @@ body {
     padding: 0.5rem 0;
   }
 
-  .timeline {
-    margin-right: 5%;
-  }
 
   /* for about page
   body.about-page .page__content {
