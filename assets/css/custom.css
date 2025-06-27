@@ -33,7 +33,6 @@ body {
 .bar.left { left: 30%; }
 .bar.middle { left: 40%; background-color: #145374; }
 .bar.right { left: 50%; background-color: #145374; }
-.bar.broad { left: 30%; width: 28%; }
 
 
 /* abroad bars */
@@ -53,7 +52,7 @@ body {
   position: relative;
   background-color: transparent;
   /* left: 5px;   */
-  max-width: 38%;
+  max-width: 30%;
   /* bottom: 5px;  */
   font-size: smaller;
   padding: 5px 5px;
@@ -123,9 +122,6 @@ body {
     font-size: 12px;
     padding: 4px 6px;
   }
-  .label.right {
-    width: 30%;
-  }
   .year-marker {
     font-size: 11px;
     left: -10%;
@@ -139,9 +135,13 @@ body {
   }
   .abroad-description {
     font-size: 11px;
-    max-width: 25%;
+    max-width: 35%;
     /* padding: 3px 6px; */
     /* max-width: 200px; narrower on mobile */
+  }
+
+  .label.right {
+    width: 30%;
   }
 
   .greedy-nav a {
