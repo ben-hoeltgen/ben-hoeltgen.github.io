@@ -46,10 +46,10 @@ body {
 .abroad-description {
   position: absolute;
   background-color: transparent;
-  left: 2%;  
+  left: 5px;  
   max-width: 27%;
+  bottom: 5px; 
   /* padding: 5px; */
-  bottom: 2%; 
 }
 
 
