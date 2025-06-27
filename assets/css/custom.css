@@ -40,8 +40,8 @@ body {
   position: absolute;
   background-color: #d8e99b;
   border-radius: 0px;
-  width: 100%;
-  left: 0%;
+  width: 90%;
+  left: 5%;
 }
 
 .abroad-description {
@@ -156,6 +156,9 @@ html[data-theme="dark"] .bar {
     filter: brightness(0.8);
   }
 
+html[data-theme="dark"] .abroad-bar {
+  background-color: #51573e;
+  }
   /* .label.left, .label.right {
     color: #373737;
   } */
