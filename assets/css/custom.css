@@ -44,6 +44,9 @@ body {
   border-radius: 0px;
   width: 80%;
   left: 5%;
+  
+  display: flex;
+  align-items: center;    /* centers vertically */
 }
 .abroad-description {
   position: relative;
