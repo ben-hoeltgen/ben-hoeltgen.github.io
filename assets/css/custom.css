@@ -188,6 +188,21 @@ body {
 
 
 
+/* smaller nav bar on mobile devices */
+@media (max-width: 400px) {
+  .greedy-nav a {
+    margin: 0.4rem;
+    padding: 0.5rem 0;
+  }
+}
+@media (max-width: 380px) {
+  .greedy-nav a {
+    margin: 0.3rem;
+    padding: 0.5rem 0;
+  }
+}
+
+
 /* dark mode */ 
 html[data-theme="dark"] .description {
     background: rgb(53, 53, 53);
