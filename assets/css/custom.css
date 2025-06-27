@@ -37,7 +37,7 @@ body {
 
 /* abroad bars */
 .abroad-bar {
-  position: absolute;
+  position: relative;
   background-color: #d8e99b;
   border-radius: 0px;
   width: 80%;
@@ -142,7 +142,7 @@ body {
 
   /* for about page */
   body.about-page .page__content {
-    font-size: 90%;
+    font-size: smaller;
   }
 }
 
