@@ -136,10 +136,9 @@ body {
   }
 
   /* for about page */
-  p {
-    font-size: smaller; /* or try 0.9em */
+  body.about-page .page__content p {
+    font-size: 90%;
   }
-
 }
 
 
