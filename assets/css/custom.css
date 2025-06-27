@@ -164,13 +164,13 @@ html[data-theme="dark"] .year-marker {
     color: #bbb;
   }
   
-html[data-theme="dark"] .bar {
     /* optional: adjust colors to be more dark-mode friendly */
+/* html[data-theme="dark"] .bar {
     filter: brightness(0.8);
-  }
+  } */
 
 html[data-theme="dark"] .abroad-bar {
-  background-color: #51573e;
+  background-color: #DED3C4;
   }
   /* .label.left, .label.right {
     color: #373737;
