@@ -43,11 +43,10 @@ body {
   width: 90%;
   left: 5%;
 }
-
 .abroad-description {
   position: absolute;
   background-color: transparent;
-  right: 28%;  
+  right: 72%;  
   max-width: 21%;
 }
 
