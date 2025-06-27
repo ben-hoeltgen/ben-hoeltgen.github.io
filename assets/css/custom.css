@@ -166,28 +166,24 @@ body {
   }
   /* RIGHT elements */
   .label.right {
-    left: calc(63% + var(--right-offset, 0));
+    left: calc(63% + var(--left-offset, 0));
   }
   .bar.right {
-    left: calc(50% + var(--right-offset, 0));
+    left: calc(50% + var(--left-offset, 0));
   }
   .line.right-short {
-    left: calc(57% + var(--right-offset, 0));
+    left: calc(57% + var(--left-offset, 0));
   }
   .line.right-middle {
-    left: calc(47% + var(--right-offset, 0));
+    left: calc(47% + var(--left-offset, 0));
   }
+
 
   .greedy-nav a {
     margin: 0.5rem;
     padding: 0.5rem 0;
   }
 
-
-  /* for about page
-  body.about-page .page__content {
-    font-size: smaller;
-  } */
 }
 
 
