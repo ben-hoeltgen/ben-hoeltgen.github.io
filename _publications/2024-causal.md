@@ -1,5 +1,5 @@
 ---
-title: "Causal modelling without introducing counterfactuals or abstract distributions"
+title: "Causal Modelling Without Introducing Counterfactuals or Abstract Distributions"
 collection: publications
 category: in-progress
 permalink: /publication/2024-icml-causality

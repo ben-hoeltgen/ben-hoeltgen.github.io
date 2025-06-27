@@ -1,5 +1,5 @@
 ---
-title: "Practical foundations for probability: Prediction methods and calibration"
+title: "Practical Foundations for Probability: Prediction Methods and Calibration"
 collection: publications
 category: in-progress
 permalink: /publication/2024-probability-philpapers
