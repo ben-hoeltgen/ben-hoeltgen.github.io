@@ -47,7 +47,8 @@ body {
 .abroad-description {
   position: absolute;
   background-color: transparent;
-  right: 20%;  
+  right: 28%;  
+  max-width: 21%;
 }
 
 
@@ -127,7 +128,7 @@ body {
   .abroad-description {
     font-size: 12px;
     padding: 3px 6px;
-    max-width: 200px; /* narrower on mobile */
+    /* max-width: 200px; narrower on mobile */
   }
 
   .greedy-nav a {
