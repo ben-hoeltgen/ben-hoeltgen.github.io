@@ -40,7 +40,7 @@ body {
   position: absolute;
   background-color: #d8e99b;
   border-radius: 0px;
-  width: 90%;
+  width: 80%;
   left: 5%;
 }
 .abroad-description {
@@ -123,6 +123,9 @@ body {
   }
   .timeline {
     margin-left: 3%;
+  }
+  .abroad-bar {
+    width: 90%;
   }
   .abroad-description {
     font-size: 12px;
