@@ -16,7 +16,7 @@ body {
 /* Year labels on the left of the axis */
 .year-marker {
   position: absolute;
-  left: -80px;
+  left: -4%;
   font-size: 14px;
   color: #666;
 }
@@ -105,3 +105,52 @@ body {
   width: auto;  /* fixed width */
   white-space: normal;
 }
+
+
+/* smaller CV text on mobile devices */
+@media (max-width: 768px) {
+  .description {
+    font-size: 12px;
+    padding: 4px 6px;
+  }
+  .label.right {
+    width: 30%;
+  }
+  .year-marker {
+    font-size: 11px;
+    left: -10%;
+  }
+  .timeline {
+    margin-left: 3%;
+  }
+
+  .greedy-nav a {
+  margin: 0.2rem;
+  padding: 0.5rem 0;
+  }
+}
+
+
+
+/* dark mode */ 
+html[data-theme="dark"] .description {
+    background: rgb(53, 53, 53);
+    /* color: #e0e0e0; */
+  }
+html[data-theme="dark"]  .line {
+    background: #848383;
+  }
+  
+html[data-theme="dark"] .year-marker {
+    color: #bbb;
+  }
+  
+html[data-theme="dark"] .bar {
+    /* optional: adjust colors to be more dark-mode friendly */
+    filter: brightness(0.8);
+  }
+
+  /* .label.left, .label.right {
+    color: #373737;
+  } */
+
