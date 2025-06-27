@@ -144,6 +144,40 @@ body {
     width: 30%;
   }
 
+  /* shift everything to make left descr larger */
+  :root {
+    --left-offset: 10%;
+  }
+  .bar.middle {
+    left: calc(40% + var(--left-offset, 0));
+  }
+  /* LEFT elements */
+  .label.left {
+    left: calc(5% + var(--left-offset, 0));
+  }
+  .bar.left {
+    left: calc(30% + var(--left-offset, 0));
+  }
+  .line.left-short {
+    left: calc(26% + var(--left-offset, 0));
+  }
+  .line.left-middle {
+    left: calc(26% + var(--left-offset, 0));
+  }
+  /* RIGHT elements */
+  .label.right {
+    left: calc(63% + var(--right-offset, 0));
+  }
+  .bar.right {
+    left: calc(50% + var(--right-offset, 0));
+  }
+  .line.right-short {
+    left: calc(57% + var(--right-offset, 0));
+  }
+  .line.right-middle {
+    left: calc(47% + var(--right-offset, 0));
+  }
+
   .greedy-nav a {
     margin: 0.5rem;
     padding: 0.5rem 0;
