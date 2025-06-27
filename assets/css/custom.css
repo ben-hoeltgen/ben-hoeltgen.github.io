@@ -140,7 +140,7 @@ body {
   }
 
   /* for about page */
-  body.about-page .page__content p {
+  body.about-page .page__content {
     font-size: 90%;
   }
 }
