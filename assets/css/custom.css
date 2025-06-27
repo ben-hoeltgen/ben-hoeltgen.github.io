@@ -45,8 +45,8 @@ body {
   width: 80%;
   left: 5%;
   
-  display: flex;
-  align-items: center;    /* centers vertically */
+  /* display: flex;
+  align-items: center;    centers vertically */
 }
 .abroad-description {
   position: relative;
