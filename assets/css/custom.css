@@ -24,15 +24,14 @@ body {
 /* Timeline bars */
 .bar {
   position: absolute;
-  background-color: transparent;
+  background-color: #1b911f;
   border-radius: 2px;
-  border: 2px solid #333; 
   width: 8%;
 }
 
 .bar.left { left: 30%; }
-.bar.middle { left: 40%; background-color: transparent; }
-.bar.right { left: 50%; background-color: transparent; }
+.bar.middle { left: 40%; background-color: #1378ca; }
+.bar.right { left: 50%; background-color: #1378ca; }
 .bar.broad { left: 30%; width: 28%; }
 
 
@@ -165,10 +164,10 @@ html[data-theme="dark"] .year-marker {
     color: #bbb;
   }
   
+html[data-theme="dark"] .bar {
     /* optional: adjust colors to be more dark-mode friendly */
-/* html[data-theme="dark"] .bar {
     filter: brightness(0.8);
-  } */
+  }
 
 html[data-theme="dark"] .abroad-bar {
   background-color: #51573e;
