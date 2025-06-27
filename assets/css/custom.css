@@ -39,10 +39,12 @@ body {
 /* abroad bars */
 .abroad-bar {
   position: absolute;
-  background-color: #d8e99b;
+  background-color: transparent;
   border-radius: 0px;
   width: 80%;
   left: 5%;
+  border-top: 1px dashed #333;    /* dashed line on top */
+  border-bottom: 1px dashed #333; /* dashed line on bottom */
 }
 .abroad-description {
   position: relative;
@@ -170,9 +172,9 @@ html[data-theme="dark"] .year-marker {
     filter: brightness(0.8);
   } */
 
-html[data-theme="dark"] .abroad-bar {
+/* html[data-theme="dark"] .abroad-bar {
   background-color: #51573e;
-  }
+  } */
   /* .label.left, .label.right {
     color: #373737;
   } */
