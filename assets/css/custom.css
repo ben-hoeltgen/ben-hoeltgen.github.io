@@ -128,6 +128,12 @@ body {
   margin: 0.5rem;
   padding: 0.5rem 0;
   }
+
+  /* for about page */
+  p {
+    font-size: 90%; /* or try 0.9em */
+  }
+
 }
 
 
