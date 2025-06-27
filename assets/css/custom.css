@@ -155,9 +155,6 @@ body {
     left: calc(40% + var(--left-offset, 0));
   }
   /* LEFT elements */
-  .label.left {
-    left: calc(5% + var(--left-offset, 0));
-  }
   .bar.left {
     left: calc(30% + var(--left-offset, 0));
   }
