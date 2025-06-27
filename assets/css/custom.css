@@ -24,14 +24,14 @@ body {
 /* Timeline bars */
 .bar {
   position: absolute;
-  background-color: #4CAF50;
+  background-color: #3e9241;
   border-radius: 2px;
   width: 8%;
 }
 
 .bar.left { left: 30%; }
-.bar.middle { left: 40%; background-color: #2196F3; }
-.bar.right { left: 50%; background-color: #2196F3; }
+.bar.middle { left: 40%; background-color: #1378ca; }
+.bar.right { left: 50%; background-color: #1378ca; }
 .bar.broad { left: 30%; width: 28%; }
 
 
@@ -125,7 +125,7 @@ body {
   }
 
   .greedy-nav a {
-  margin: 0.4rem;
+  margin: 0.5rem;
   padding: 0.5rem 0;
   }
 }
