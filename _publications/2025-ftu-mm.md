@@ -3,7 +3,7 @@ title: "Reconsidering Fairness Through Unawareness From the Perspective of Model
 collection: publications
 category: in-progress
 permalink: /publication/2025-ftu-mm
-excerpt: 'Excluding protected attributes can reduce disparate impact without reducing accuracy.'
+excerpt: 'Using protected attributes can increase disparate impact without increasing accuracy.'
 date: 2024-10-01
 # venue: 'NeurIPS Worksho: Explainable AI Approaches for Debugging and Diagnosis'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

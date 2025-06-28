@@ -3,7 +3,7 @@ title: "Position: The Categorization of Race in ML is a Flawed Premise"
 collection: publications
 category: conferences
 permalink: /publication/2025-icml-race
-excerpt: 'ML research oversimplifies race and there are settings where we need to move beyond categories.'
+excerpt: 'ML research oversimplifies race and we need to learn how to move beyond categories.'
 date: 2025-10-01
 venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
