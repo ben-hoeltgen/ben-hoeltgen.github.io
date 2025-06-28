@@ -182,7 +182,7 @@ body {
 }
 
 .greedy-nav a {
-  margin: 0.3rem 0.8rem;
+  margin: 0.0rem 0.8rem;
   padding: 0.7rem 0;
 }
 
@@ -190,13 +190,13 @@ body {
 /* smaller nav bar on mobile devices */
 @media (max-width: 400px) {
   .greedy-nav a {
-    margin: 0.2rem 0.7rem;
+    margin: 0.0rem 0.7rem;
     padding: 0.5rem 0;
   }
 }
 @media (max-width: 380px) {
   .greedy-nav a {
-    margin: 0.2rem 0.6rem;
+    margin: 0.0rem 0.6rem;
     padding: 0.5rem 0;
   }
 }
