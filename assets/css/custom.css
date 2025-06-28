@@ -188,15 +188,15 @@ body {
 
 
 /* smaller nav bar on mobile devices */
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .greedy-nav a {
-    margin: 0.0rem 0.7rem;
+    margin: 0.0rem 0.6rem;
     padding: 0.5rem 0;
   }
 }
 @media (max-width: 380px) {
   .greedy-nav a {
-    margin: 0.0rem 0.6rem;
+    margin: 0.0rem 0.5rem;
     padding: 0.5rem 0;
   }
 }
