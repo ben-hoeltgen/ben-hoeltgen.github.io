@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-By asking foundational questions about machine learning and its use, I hope to help shaping the development and deployment of 'artificial intelligence' in a way that is beneficial and not harmful to society. I have been thinking especially about the interpretation and evaluation of probabilities, the interplay between individuals and groups, and the implicit choices and assumptions that are often glossed over in ML theory and practice.  
+As a researcher trained in mathematics, philosophy, and computer science, I am comfortable crossing the boundaries of traditional disciplines. Drawing on diverse perspectives and scholarship, I strive to make original contributions across fields, and in particular to the transdisciplinary understanding of machine learning systems in society. My research focuses on the plausibility and impact of mathematical assumptions and technical modelling choices in social contexts. 
 
 Before my PhD, I have worked a little on moral psychology, philosophy of science, causal discovery, XAI, and efficient training of large ML models (see my [publications](https://ben-hoeltgen.github.io/publications/)).
 
@@ -26,6 +26,6 @@ I initially studied maths (with physics) and then also philosophy (with literatu
 
 ### Other
 
-Beyond my own research, I am also trying to help foster interdisciplinary collaboration (co-developing an [app](https://catalyst-app.org/)), enhance the visibility of female and non-binary scientists (co-organising [Soapbox Science Tübingen](https://soapboxsciencetuebingen.github.io/)), and generally make academia a more healthy place (as a [mental heath first aider](https://mhfainternational.org/), a 'confidant' contact person in the [Tübingen AI community](https://tappa-org.github.io/), and promoting [mental health](https://www.nature.com/articles/d41586-024-04240-1) awareness).
+In the service of science, I am also engaged in efforts to facilitate interdisciplinary collaboration (developing an [app](https://catalyst-app.org/)), increase the visibility of female and non-binary scientists (organising [Soapbox Science Tübingen](https://soapboxsciencetuebingen.github.io/)), and support well-being in academia (as a [mental health first aider](https://mhfainternational.org/), a 'confidant' contact person in the [Tübingen AI community](https://tappa-org.github.io/), and a promoter of [mental health](https://www.nature.com/articles/d41586-024-04240-1) awareness).
 
 Outside of work, I enjoy (among other things) literature, music, travelling (especially to visit friends), and all sorts of sports.
