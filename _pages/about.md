@@ -26,6 +26,6 @@ I initially studied maths (with physics) and then also philosophy (with literatu
 
 ### Other
 
-In the service of science more broadly, I am also engaged in efforts to facilitate interdisciplinary collaboration (developing an [app](https://catalyst-app.org/)), increase the visibility of female and non-binary scientists (organising [Soapbox Science Tübingen](https://soapboxsciencetuebingen.github.io/)), and support well-being in academia (as a [mental health first aider](https://mhfainternational.org/), a 'confidant' contact person in the [Tübingen AI community](https://tappa-org.github.io/), and a promoter of [mental health](https://www.nature.com/articles/d41586-024-04240-1) awareness).
+In the service of science more broadly, I am also engaged in efforts to facilitate interdisciplinary collaboration (developing an [app](https://catalyst-app.org/)), increase the visibility of female and non-binary scientists (organising [Soapbox Science Tübingen](https://soapboxsciencetuebingen.github.io/)), and support well-being in academia (as a [mental health first aider](https://mhfainternational.org/), a ['confidant'](https://tappa-org.github.io/confidants/) contact person in the Tübingen AI community, and a promoter of [mental health](https://www.nature.com/articles/d41586-024-04240-1) awareness).
 
 Outside of work, I enjoy (among other things) literature, music, travelling (especially to visit friends), and all sorts of sports.
