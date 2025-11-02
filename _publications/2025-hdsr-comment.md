@@ -13,4 +13,4 @@ citation: '<b>Höltgen, B.</b>: &quot;A thoughtful narrative emerges.&quot; <i>H
 ---
 In this comment on Sabina Leonelli's [article](https://hdsr.mitpress.mit.edu/pub/mx9vpa0b/release/1) on Environmental Intelligence, I expand on her critique of AI's sterile notion of intelligence.
 
-<i>forthcoming.</i>
+[**PDF**](https://doi.org/10.1162/99608f92.15126a15)
