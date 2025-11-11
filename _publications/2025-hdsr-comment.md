@@ -9,7 +9,7 @@ venue: 'Harvard Data Science Review'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '<b>Höltgen, B.</b>: &quot;A thoughtful narrative emerges.&quot; <i>Harvard Data Science Review, 7(4)</i>. 2025.'
+citation: '<b>Höltgen, B.</b>: &quot;A thoughtful narrative emerges.&quot; <i>Harvard Data Science Review, 7:4</i>. 2025.'
 ---
 In this comment on Sabina Leonelli's [article](https://hdsr.mitpress.mit.edu/pub/mx9vpa0b/release/1) on Environmental Intelligence, I expand on her critique of AI's sterile notion of intelligence.
 
