@@ -26,10 +26,10 @@ author:
   name: "Ben Höltgen"
   pronouns: # example: "she/her"
   bio: "Machine Learning in Society"
-  #location         : "Tübingen, Germany"
-  employer: "University of Tübingen"
+  location         : "Berlin, Germany"
+  employer: "Hasso Plattner Institut"
   uri: # URL
-  email: "benedikt.hoeltgen@uni-tuebingen.de"
+  email: "benedikt.hoeltgen@hpi.de"
 
   # Academic websites
   academia: # URL
