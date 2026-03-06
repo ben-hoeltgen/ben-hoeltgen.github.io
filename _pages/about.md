@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-As a researcher trained in mathematics, philosophy, and computer science, I am comfortable crossing the boundaries of traditional disciplines. Drawing on diverse perspectives and scholarship, I try to contribute to the transdisciplinary understanding of machine learning systems in society. My research focuses on the plausibility and impact of mathematical assumptions and technical modelling choices of 'AI' systems in social contexts. 
+As a researcher trained in mathematics, philosophy, and computer science, I am comfortable crossing the boundaries of traditional disciplines. Drawing on diverse perspectives and scholarship, I try to contribute to the transdisciplinary understanding of machine learning systems in society. My research focuses on the plausibility of mathematical assumptions and the impact of technical modelling choices of 'AI' systems in social contexts. 
 
 I also have worked a little on moral psychology, philosophy of science, causal discovery, XAI, and efficient training of large ML models (see my [publications](https://ben-hoeltgen.github.io/publications/)).
 
