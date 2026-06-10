@@ -1,5 +1,5 @@
 ---
-title: "Formalising causal inference as prediction on a target population"
+title: "Formalising Causal Inference as Prediction on a Target Population"
 collection: publications
 category: in-progress
 permalink: /publication/2024-icml-causality
