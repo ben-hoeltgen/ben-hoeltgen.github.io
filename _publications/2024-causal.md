@@ -3,7 +3,7 @@ title: "Formalising causal inference as prediction on a target population"
 collection: publications
 category: in-progress
 permalink: /publication/2024-icml-causality
-excerpt: 'A different way of modelling causal inference.'
+excerpt: 'Causal inference models that can be tested, for more insights and accountability.'
 date: 2025-10-01
 # venue: 'NeurIPS Worksho: Explainable AI Approaches for Debugging and Diagnosis'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
