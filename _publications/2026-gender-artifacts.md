@@ -3,7 +3,7 @@ title: "Gender Artifacts from Art History to Text-to-Image Generation"
 collection: publications
 category: conferences
 permalink: /publication/2026-gender-artifacts
-excerpt: 'Art styles carry gendered representations and T2I models amplify them.'
+excerpt: 'Art styles carry gendered representations, and T2I models amplify them.'
 date: 2026-10-01
 # venue:
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
